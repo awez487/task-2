@@ -37,6 +37,7 @@ PayPal Security Team
 
 This email is clearly a phishing attemptcan be seen using email headers (https://mxtoolbox.com/).  
 It uses fear, fake email addresses, and a dangerous link to steal user information.
+
 So be aware of this type of emails Especially in organizations.
 
-so be 
+ 
