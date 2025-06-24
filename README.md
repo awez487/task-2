@@ -17,25 +17,24 @@ Thank you,
 PayPal Security Team
 
 
+. **Phishing Indicators**
 
- 2. **Phishing Indicators**
-
-1. **Fake Email Address**  
+. **Fake Email Address**  
    - paypa1@gmail.com is not official PayPal.
    - Real PayPal emails come from service@paypal.com.
 
-2. **Urgent & Threatening Language**  
+. **Urgent & Threatening Language**  
    - Saying “account will be locked” to scare the user.
 
-3. **Suspicious Link**  
+. **Suspicious Link**  
    - Link goes to `paypal-update-verify.ru`, not real PayPal site.
 
-4. **Spelling/Grammar**  
+. **Spelling/Grammar**  
    - Short, robotic message — often a sign of phishing.
 
 ---
 
- **3. Summary**
+ **. Summary**
 
 This email is clearly a phishing attemptcan be seen using email headers (https://mxtoolbox.com/).  
 It uses fear, fake email addresses, and a dangerous link to steal user information.
