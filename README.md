@@ -1,5 +1,5 @@
 # task-2
-phishing email
+**phishing email**
 
 
 From: paypa1@gmail.com  
@@ -7,7 +7,7 @@ Subject: Urgent: your Account is Blocked!
 
 Dear Customer,
 
-We noticed suspicious activity on your PayPal account, blocked due to wrong password. 
+We noticed suspicious activity on your PayPal account, blocked due to multiple wrong passwords. 
 Please verify your identity to avoid permanent suspension.
 
 Click the link below to verify:  
